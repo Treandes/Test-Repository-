@@ -1,0 +1,38 @@
+/* Put in your css here */
+p{
+  color:indigo;
+}
+h1{
+  color:orange;
+  font-family:georgia;
+  font-size:55px;
+}
+h2{
+  color:aqua;
+}
+body{
+  background:pink;
+  font-family:times new roman;
+}
+li{
+  display:inline;
+  padding:10px 10px 10px 10px;
+}
+ul{
+  background:rgba(0,0,0,.4);
+}
+header{
+  text-align:center;
+  background:url("http://reciperhapsody.files.wordpress.com/2010/01/21.jpg");
+  background-size:cover;
+  color:green;
+}
+a{ color:beige;
+}
+a:hover{
+  color:maroon;
+  background:lavender;
+}
+body{
+  text-align:center;
+}
